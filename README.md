@@ -1,2 +1,2 @@
-# emo-mkr-plus
+# EmoMKR+
 Emoji Maker On Scratch
